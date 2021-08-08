@@ -1,0 +1,37 @@
+Write cell
+Write range
+Write line
+Read range
+Read cell
+Read column
+Open browser
+Open application
+Filter table
+Filter data table
+Sort table
+Filter table
+Comment out
+Sort data table
+Excel application scope
+Flowchart
+Sequence
+Assign
+Output data table
+Message box
+For each row
+If
+Break
+Click
+Get text
+Get ocr text
+Send hotkey
+Send hotkey
+Get password
+Get IMAP mail messages
+Append line
+Append range
+Save attachments
+Input Dialog
+Invoke Workflow File
+Run parallel process
+Run Multiple files
