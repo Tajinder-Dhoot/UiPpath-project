@@ -1,11 +1,10 @@
 {
-  "name": "FirtsRobot",
+  "name": "RobotDataAnalytics",
   "description": "Blank Process",
-  "main": "RobotTableIterate.xaml",
+  "main": "DataAnalytics.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
-    "UiPath.PDF.Activities": "[3.4.0]",
     "UiPath.System.Activities": "[21.4.1]",
     "UiPath.UIAutomation.Activities": "[21.4.4]"
   },
@@ -44,13 +43,13 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "979fdae0-3630-4a66-84e9-d6eb9805906b",
+      "uniqueId": "c0cc5a7c-b10f-49dd-8e42-17619b81a867",
       "input": [],
       "output": []
     },
     {
-      "filePath": "RobotTableIterate.xaml",
-      "uniqueId": "5608add8-6336-4deb-8142-d8daee8b0cd2",
+      "filePath": "DataAnalytics.xaml",
+      "uniqueId": "5097763a-7288-44ea-be8e-4303da947f85",
       "input": [],
       "output": []
     }
